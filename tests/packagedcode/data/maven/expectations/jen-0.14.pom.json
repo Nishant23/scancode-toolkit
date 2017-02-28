@@ -14,14 +14,6 @@
     "http://jen.dev.java.net/source/browse/jen/"
   ], 
   "maven_issue_url": [], 
-  "maven_dependency_version": [
-    "3.8.1", 
-    "0.30-SNAPSHOT", 
-    "2.1", 
-    "2.1", 
-    "2.1", 
-    "2.1"
-  ], 
   "maven_repository_name": [], 
   "maven_component_classifier": [], 
   "maven_contributor_name": [
@@ -56,12 +48,54 @@
   ], 
   "maven_contributor_organization": [], 
   "maven_dependency": [
-    "junit", 
-    "juno", 
-    "asm", 
-    "asm-commons", 
-    "asm-attrs", 
-    "asm-tree"
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }
   ], 
   "maven_license": [
     "Apache Software License, 2.0"
@@ -94,7 +128,6 @@
   "maven_repository_connection_1": [
     "scm:cvs:pserver:guest@cvs.dev.java.net:/cvs:jen/main"
   ], 
-  "maven_dependency_scope": [], 
   "maven_license_name": [
     "Apache Software License, 2.0"
   ], 

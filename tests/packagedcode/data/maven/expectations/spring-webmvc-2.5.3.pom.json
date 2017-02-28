@@ -12,30 +12,6 @@
   ], 
   "maven_repository_url_1": [], 
   "maven_issue_url": [], 
-  "maven_dependency_version": [
-    "2.2", 
-    "2.2", 
-    "1.1.1", 
-    "2.0.7", 
-    "2.3.12", 
-    "2.0.2", 
-    "2.0", 
-    "1.1.0", 
-    "2.4", 
-    "2.6.6", 
-    "2.0.5", 
-    "2.0.5", 
-    "2.0.5", 
-    "3.0.1", 
-    "1.5", 
-    "1.4", 
-    "1.4", 
-    "2.5.3", 
-    "2.5.3", 
-    "2.5.3", 
-    "2.5.3", 
-    "2.5.3"
-  ], 
   "maven_repository_name": [], 
   "maven_component_classifier": [], 
   "maven_contributor_name": [], 
@@ -72,28 +48,182 @@
   "maven_developer_name": [], 
   "maven_contributor_organization": [], 
   "maven_dependency": [
-    "commons-attributes-api", 
-    "commons-attributes-compiler", 
-    "commons-logging", 
-    "itext", 
-    "freemarker", 
-    "jasperreports", 
-    "jsp-api", 
-    "jstl", 
-    "servlet-api", 
-    "jxl", 
-    "tiles-api", 
-    "tiles-core", 
-    "tiles-jsp", 
-    "poi", 
-    "velocity", 
-    "velocity-tools-generic", 
-    "velocity-tools-view", 
-    "spring-beans", 
-    "spring-context", 
-    "spring-context-support", 
-    "spring-core", 
-    "spring-web"
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }
   ], 
   "maven_license": [
     "The Apache Software License, Version 2.0"
@@ -120,7 +250,6 @@
     "Spring Framework: Web MVC"
   ], 
   "maven_repository_connection_1": [], 
-  "maven_dependency_scope": [], 
   "maven_license_name": [
     "The Apache Software License, Version 2.0"
   ], 

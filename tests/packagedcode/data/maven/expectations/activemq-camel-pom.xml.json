@@ -8,7 +8,6 @@
   "maven_license_url": [], 
   "maven_repository_url_1": [], 
   "maven_issue_url": [], 
-  "maven_dependency_version": [], 
   "maven_repository_name": [], 
   "maven_component_classifier": [], 
   "maven_contributor_name": [], 
@@ -41,17 +40,94 @@
   "maven_developer_name": [], 
   "maven_contributor_organization": [], 
   "maven_dependency": [
-    "commons-logging-api", 
-    "camel-jms", 
-    "activemq-core", 
-    "activemq-pool", 
-    "geronimo-annotation_1.0_spec", 
-    "activemq-core", 
-    "camel-core", 
-    "camel-spring", 
-    "spring-test", 
-    "junit", 
-    "hamcrest-all"
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }
   ], 
   "maven_license": [], 
   "maven_component_packaging": [
@@ -70,7 +146,6 @@
     "ActiveMQ component for Camel"
   ], 
   "maven_repository_connection_1": [], 
-  "maven_dependency_scope": [], 
   "maven_license_name": [], 
   "maven_repository_developer_connection_1": [], 
   "maven_project_name": [

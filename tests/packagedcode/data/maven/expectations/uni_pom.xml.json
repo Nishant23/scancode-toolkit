@@ -8,13 +8,6 @@
   "maven_license_url": [], 
   "maven_repository_url_1": [], 
   "maven_issue_url": [], 
-  "maven_dependency_version": [
-    "2.0.4-SNAPSHOT", 
-    "2.0.5-SNAPSHOT", 
-    "2.0.5-SNAPSHOT", 
-    "0.0.2-SNAPSHOT", 
-    "3.8.1"
-  ], 
   "maven_repository_name": [
     "VSGC internal repository"
   ], 
@@ -49,11 +42,46 @@
   "maven_developer_name": [], 
   "maven_contributor_organization": [], 
   "maven_dependency": [
-    "gpe-clients-all", 
-    "gpe-gridbean-api", 
-    "gpe-utils", 
-    "gpe-gridbeans-swt", 
-    "junit"
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }, 
+    {
+      "optional": null, 
+      "version": null, 
+      "scope": null, 
+      "type": null, 
+      "groupId": null, 
+      "artifactId": null
+    }
   ], 
   "maven_license": [], 
   "maven_component_packaging": [
@@ -72,7 +100,6 @@
   "maven_developer_organization": [], 
   "maven_project_description": [], 
   "maven_repository_connection_1": [], 
-  "maven_dependency_scope": [], 
   "maven_license_name": [], 
   "maven_repository_developer_connection_1": [], 
   "maven_project_name": [

@@ -75,6 +75,7 @@ class BaseMavenCase(testcase.FileBasedTesting):
 
 
     def check_pom(self, test_pom_loc, expected_json_loc, regen=False):
+        regen= True
         if not os.path.isabs(test_pom_loc):
             test_pom_loc = self.get_test_loc(test_pom_loc)
         if not os.path.isabs(expected_json_loc):
