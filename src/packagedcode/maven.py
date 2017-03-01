@@ -102,7 +102,7 @@ MAVEN2_FIELDS = [
     ('contributor_organization', '/project/contributors/contributor/organization'),
 
     ('distribution_management_site_url', '/project/distributionManagement/site/url'),
-    ('distribution_management_repository_url','/project/distributionManagement/repository/url'),
+    ('distribution_management_repository_url', '/project/distributionManagement/repository/url'),
 
     ('license', '/project/licenses/license/name'),
     ('license_comments', '/project/licenses/license/comments'),
@@ -131,11 +131,10 @@ MAVEN2_FIELDS = [
 
     ('distribution_management_group_id', '/project/distributionManagement/relocation/groupId'),
     ('model_version', '/project/modelVersion'),
-
 ]
 
-MAVEN2_PARENT_FILEDS = [ (('dependency', '/project/dependencies//dependency'),
-                         ('artifactId','groupId', 'version', 'scope', 'type', 'optional')),
+MAVEN2_PARENT_FILEDS = [(('dependency', '/project/dependencies//dependency'),
+                         ('artifactId', 'groupId', 'version', 'scope', 'type', 'optional')),
                         ]
 
 MAVEN_FIELDS = [('maven_' + key, xmlutils.namespace_unaware(xpath)) for key, xpath in (MAVEN2_FIELDS + MAVEN1_FIELDS)]
