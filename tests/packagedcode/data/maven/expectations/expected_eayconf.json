@@ -58,148 +58,94 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.2.8", 
+      "groupId": "log4j", 
+      "artifactId": "log4j"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.3", 
+      "groupId": "servletapi", 
+      "artifactId": "servletapi"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.1", 
+      "groupId": "struts", 
+      "artifactId": "struts"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.1", 
+      "groupId": "commons-configuration", 
+      "artifactId": "commons-configuration"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "3.1", 
+      "groupId": "commons-collections", 
+      "artifactId": "commons-collections"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0", 
+      "groupId": "commons-lang", 
+      "artifactId": "commons-lang"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.4", 
+      "groupId": "dom4j", 
+      "artifactId": "dom4j"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.0.4", 
+      "groupId": "commons-logging", 
+      "artifactId": "commons-logging"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.6", 
+      "groupId": "commons-digester", 
+      "artifactId": "commons-digester"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.2.1", 
+      "groupId": "xerces", 
+      "artifactId": "xerces"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.2", 
+      "groupId": "xml-apis", 
+      "artifactId": "xml-apis"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.2.1", 
+      "groupId": "xdoclet", 
+      "artifactId": "xdoclet"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.7.0", 
+      "groupId": "commons-beanutils", 
+      "artifactId": "commons-beanutils-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.7.0", 
+      "groupId": "commons-beanutils", 
+      "artifactId": "commons-beanutils-bean-collections"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.2.1", 
+      "groupId": "xdoclet", 
+      "artifactId": "xdoclet-web-module"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1.1", 
+      "groupId": "mx4j", 
+      "artifactId": "mx4j-jmx"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1.1", 
+      "groupId": "mx4j", 
+      "artifactId": "mx4j-impl"
     }
   ], 
   "maven_license": [], 

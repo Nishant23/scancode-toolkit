@@ -41,28 +41,22 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "1.7.0", 
+      "groupId": "org.apache.ant", 
+      "artifactId": "ant"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "provided", 
+      "version": "1.1.2_01", 
+      "groupId": "javax.media", 
+      "artifactId": "jai-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "provided", 
+      "version": "1.1.2.1", 
+      "groupId": "jai", 
+      "artifactId": "jai-codec"
     }
   ], 
   "maven_license": [], 

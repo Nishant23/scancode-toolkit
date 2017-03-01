@@ -55,12 +55,10 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }
   ], 
   "maven_license": [], 

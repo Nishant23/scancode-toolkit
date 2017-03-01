@@ -52,36 +52,24 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "com.idega.block.platform", 
+      "artifactId": "com.idega.core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "com.idega.block.platform", 
+      "artifactId": "com.idega.block.media"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${itextpdf-itext-paulo-version}", 
+      "type": "jar", 
+      "groupId": "itextpdf", 
+      "artifactId": "itext-paulo"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${itext-itext-xml-version}", 
+      "type": "jar", 
+      "groupId": "itext", 
+      "artifactId": "itext-xml"
     }
   ], 
   "maven_license": [], 

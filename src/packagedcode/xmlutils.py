@@ -130,9 +130,12 @@ def find_parent_text(xdoc, xpath, sub_list):
         for element in result:
             text = {}
             for index, val in enumerate(sub_list):
-                from lxml import etree
-                sub_element = etree.SubElement(element, val)
-                text[val] = sub_element.text
+                children = element.getchildren()
+                for child in children:
+                    if val in text and text[val]:
+                        break
+                    elif child.tag and str(child.tag).endswith(val):
+                        text[val] = child.text
             texts.append(text)
     return texts
 

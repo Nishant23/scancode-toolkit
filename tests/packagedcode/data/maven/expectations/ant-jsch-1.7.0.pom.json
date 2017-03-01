@@ -41,20 +41,16 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "1.7.0", 
+      "groupId": "org.apache.ant", 
+      "artifactId": "ant"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "0.1.29", 
+      "groupId": "com.jcraft", 
+      "artifactId": "jsch"
     }
   ], 
   "maven_license": [], 

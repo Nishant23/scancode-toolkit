@@ -41,60 +41,50 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "provided", 
+      "version": "${project.version}", 
+      "type": "zip", 
+      "groupId": "${project.groupId}", 
+      "artifactId": "bash_blazeds_service_config"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "internal", 
+      "version": "${project.version}", 
+      "type": "swc", 
+      "groupId": "${project.groupId}", 
+      "artifactId": "bash_flex_remoted_objects"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${flex.sdk.version}", 
+      "type": "pom", 
+      "groupId": "com.adobe.flex", 
+      "artifactId": "compiler"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${flex.sdk.version}", 
+      "type": "pom", 
+      "groupId": "com.adobe.flex.framework", 
+      "artifactId": "flex-framework"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${cairngorm.version}", 
+      "type": "swc", 
+      "groupId": "com.adobe.cairngorm", 
+      "artifactId": "cairngorm"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "${flexunit.version}", 
+      "type": "swc", 
+      "groupId": "com.adobe.flexunit", 
+      "artifactId": "flexunit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "${flex-mojos.version}", 
+      "type": "swc", 
+      "groupId": "info.flex-mojos", 
+      "artifactId": "testing-support"
     }
   ], 
   "maven_license": [], 

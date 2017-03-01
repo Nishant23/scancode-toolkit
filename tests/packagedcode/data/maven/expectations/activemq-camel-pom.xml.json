@@ -41,92 +41,58 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "commons-logging", 
+      "artifactId": "commons-logging-api"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "org.apache.camel", 
+      "artifactId": "camel-jms"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "${project.groupId}", 
+      "artifactId": "activemq-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "groupId": "${project.groupId}", 
+      "artifactId": "activemq-pool"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "optional": "true", 
+      "groupId": "org.apache.geronimo.specs", 
+      "artifactId": "geronimo-annotation_1.0_spec"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "type": "test-jar", 
+      "groupId": "${project.groupId}", 
+      "artifactId": "activemq-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "type": "test-jar", 
+      "groupId": "org.apache.camel", 
+      "artifactId": "camel-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "type": "test-jar", 
+      "groupId": "org.apache.camel", 
+      "artifactId": "camel-spring"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "groupId": "org.springframework", 
+      "artifactId": "spring-test"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "groupId": "org.hamcrest", 
+      "artifactId": "hamcrest-all"
     }
   ], 
   "maven_license": [], 

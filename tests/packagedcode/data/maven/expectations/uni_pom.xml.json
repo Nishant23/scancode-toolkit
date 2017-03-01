@@ -43,44 +43,30 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.4-SNAPSHOT", 
+      "groupId": "com.intel.gpe.clients", 
+      "artifactId": "gpe-clients-all"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.5-SNAPSHOT", 
+      "groupId": "com.intel.gpe.clients", 
+      "artifactId": "gpe-gridbean-api"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.5-SNAPSHOT", 
+      "groupId": "com.intel.gpe", 
+      "artifactId": "gpe-utils"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "0.0.2-SNAPSHOT", 
+      "groupId": "com.intel.gpe.clients", 
+      "artifactId": "gpe-gridbeans-swt"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }
   ], 
   "maven_license": [], 

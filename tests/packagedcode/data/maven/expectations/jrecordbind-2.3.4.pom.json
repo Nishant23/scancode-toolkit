@@ -61,36 +61,28 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "20020414", 
+      "groupId": "relaxngDatatype", 
+      "artifactId": "relaxngDatatype"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "2.1.11", 
+      "groupId": "com.sun.xml.bind", 
+      "artifactId": "jaxb-impl"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "2.1.11", 
+      "groupId": "com.sun.xml.bind", 
+      "artifactId": "jaxb-xjc"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "20081112", 
+      "groupId": "com.sun.xsom", 
+      "artifactId": "xsom"
     }
   ], 
   "maven_license": [

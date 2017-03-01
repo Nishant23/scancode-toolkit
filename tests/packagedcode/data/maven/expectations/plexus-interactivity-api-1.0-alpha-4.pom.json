@@ -63,36 +63,28 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "1.0-alpha-7", 
+      "groupId": "org.codehaus.plexus", 
+      "artifactId": "plexus-container-default"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "1.1-alpha-2", 
+      "groupId": "classworlds", 
+      "artifactId": "classworlds"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "version": "1.0.2", 
+      "groupId": "plexus", 
+      "artifactId": "plexus-utils"
     }
   ], 
   "maven_license": [], 

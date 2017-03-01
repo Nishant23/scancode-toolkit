@@ -49,52 +49,40 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "3.8.1", 
+      "type": "jar", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "0.30-SNAPSHOT", 
+      "type": "jar", 
+      "groupId": "bloxx", 
+      "artifactId": "juno"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1", 
+      "type": "jar", 
+      "groupId": "asm", 
+      "artifactId": "asm"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1", 
+      "type": "jar", 
+      "groupId": "asm", 
+      "artifactId": "asm-commons"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1", 
+      "type": "jar", 
+      "groupId": "asm", 
+      "artifactId": "asm-attrs"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.1", 
+      "type": "jar", 
+      "groupId": "asm", 
+      "artifactId": "asm-tree"
     }
   ], 
   "maven_license": [

@@ -51,12 +51,10 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "1.8.1", 
+      "groupId": "org.mockito", 
+      "artifactId": "mockito-all"
     }
   ], 
   "maven_license": [], 

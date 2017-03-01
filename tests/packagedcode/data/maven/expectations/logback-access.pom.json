@@ -51,44 +51,29 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "groupId": "ch.qos.logback", 
+      "artifactId": "logback-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "groupId": "tomcat", 
+      "artifactId": "catalina"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "groupId": "org.mortbay.jetty", 
+      "artifactId": "jetty"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "groupId": "com.caucho", 
+      "artifactId": "resin"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "compile", 
+      "groupId": "org.mortbay.jetty", 
+      "artifactId": "servlet-api-2.5"
     }
   ], 
   "maven_license": [

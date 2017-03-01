@@ -95,52 +95,35 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.7.0", 
+      "groupId": "commons-beanutils", 
+      "artifactId": "commons-beanutils"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.6", 
+      "groupId": "commons-digester", 
+      "artifactId": "commons-digester"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.0.4", 
+      "groupId": "commons-logging", 
+      "artifactId": "commons-logging"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.8", 
+      "groupId": "oro", 
+      "artifactId": "oro"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.2", 
+      "groupId": "xml-apis", 
+      "artifactId": "xml-apis"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "scope": "test", 
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }
   ], 
   "maven_license": [

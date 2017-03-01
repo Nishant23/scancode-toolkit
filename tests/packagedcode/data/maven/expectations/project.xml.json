@@ -40,84 +40,54 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "0.13.0", 
+      "groupId": "abbot", 
+      "artifactId": "abbot"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "b10", 
+      "groupId": "jdom", 
+      "artifactId": "jdom"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.0", 
+      "groupId": "mrj", 
+      "artifactId": "MRJToolkitStubs"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.1.4", 
+      "groupId": "gnu-regexp", 
+      "artifactId": "gnu-regexp"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "3.8.1", 
+      "groupId": "junit", 
+      "artifactId": "junit"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.4.0", 
+      "groupId": "xerces", 
+      "artifactId": "xerces"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.2.1", 
+      "groupId": "xerces", 
+      "artifactId": "xmlParserAPIs"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.5.3-1", 
+      "groupId": "ant", 
+      "artifactId": "ant"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.5.3-1", 
+      "groupId": "ant", 
+      "artifactId": "ant-optional"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "20030211.142705", 
+      "groupId": "commons-jelly", 
+      "artifactId": "commons-jelly-tags-xml"
     }
   ], 
   "maven_license": [], 

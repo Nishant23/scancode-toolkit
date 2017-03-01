@@ -41,12 +41,10 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "${pkgVersion}", 
+      "optional": "true", 
+      "groupId": "${pkgGroupId}", 
+      "artifactId": "${pkgArtifactId}"
     }
   ], 
   "maven_license": [], 

@@ -31,20 +31,16 @@
   "maven_contributor_organization": [], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.6.2", 
+      "optional": "true", 
+      "groupId": "xerces", 
+      "artifactId": "xercesImpl"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.3.04", 
+      "optional": "true", 
+      "groupId": "xml-apis", 
+      "artifactId": "xml-apis"
     }
   ], 
   "maven_license": [], 

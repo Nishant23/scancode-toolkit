@@ -60,44 +60,29 @@
   ], 
   "maven_dependency": [
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.4", 
+      "groupId": "org.apache.maven", 
+      "artifactId": "maven-artifact"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.4", 
+      "groupId": "org.apache.maven.reporting", 
+      "artifactId": "maven-reporting-impl"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "2.0.4", 
+      "groupId": "org.apache.maven.reporting", 
+      "artifactId": "maven-reporting-api"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.0-alpha-8", 
+      "groupId": "org.apache.maven.doxia", 
+      "artifactId": "doxia-core"
     }, 
     {
-      "optional": null, 
-      "version": null, 
-      "scope": null, 
-      "type": null, 
-      "groupId": null, 
-      "artifactId": null
+      "version": "1.2.0", 
+      "groupId": "net.sourceforge.findbugs", 
+      "artifactId": "findbugs"
     }
   ], 
   "maven_license": [
